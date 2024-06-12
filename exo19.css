@@ -1,0 +1,10 @@
+body{
+    background-color: orange;
+}
+
+#colorDiv {
+    width: 200px;
+    height: 80px;
+    background-color: blue; 
+    border-radius: 10px;
+}
