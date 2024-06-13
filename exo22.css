@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#gameContainer {
+    margin: 50px auto;
+    width: 300px;
+    text-align: center;
+}
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}

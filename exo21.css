@@ -1,0 +1,31 @@
+body{
+    background-color: peachpuff;
+}
+
+#nom{
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+    font-weight: bold;
+}
+
+#btn{
+    color: blue;
+}
+
+#erreur{
+    display: none;
+    color: blueviolet;
+}
+
+#erreurmail{
+    display: none;
+    color: blueviolet;
+
+}
+
+#motdepasse{
+    display: none;
+    color: blueviolet;
+
+}

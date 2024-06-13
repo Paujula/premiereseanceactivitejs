@@ -1,8 +1,8 @@
 function waitDeuxSecondes() {
     return new Promise(resolve => {
         setTimeout(() => {
-            resolve("La promesse a été résolue après 2 secondes.");
-        }, 2000);
+            resolve("La promesse a été résolue après 3 secondes.");
+        }, 3000);
     });
 }
 
